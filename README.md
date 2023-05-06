@@ -1,4 +1,4 @@
-### Seoyoon's Github 👋
+# Seoyoon's Github 👋
 
 <!--
 **SeoyoonPark18/SeoyoonPark18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
